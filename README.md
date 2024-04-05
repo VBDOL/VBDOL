@@ -16,3 +16,14 @@ You can click the Preview link to take a look at your changes.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/VBDOL/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a>.
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">VBDOL</a>.
+  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">VBDOL</a>.</div>
+
+</details>
