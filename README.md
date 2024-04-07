@@ -4,7 +4,7 @@
 
 
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na GRAN FACULDADE (Gran Concursos). Atualmente me encontro em alguns cursos bem legais que estão contribuindo para meu desenvolvimento como proficional, alguns deles são: <br>* ONE ORACLE + Alura estou na Fase 3 - Especialização Front-End
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na GRAN FACULDADE (Gran Concursos). Atualmente me encontro em alguns cursos bem legais que estão contribuindo para meu desenvolvimento como proficional, alguns deles são: <br><strong>* ONE ORACLE + Alura estou na Fase 3 - Especialização Front-End
 Formações técnicas e Soft Skills.<br>* Skill for All by Cisco Networking Academy (parceira da faculdade).<br> * Microsoft Learn. <br> * Programa HackersDoBem, GOV. BR. <br>* E também deixo um tempinho para aprender um pouco mais com alguns cursos especificos na Udemy.
 
 Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML, CSS e JavaScript (Também estou aprendendo React). 
