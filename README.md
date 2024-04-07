@@ -33,8 +33,9 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-VBDOL.vercel.app/api?username=VBDOL&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=45B1E8&text_color=FFF&border_radius=3&border_color=36123c&icon_color=45B1E8&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-VBDOL.vercel.app/api/top-langs/?username=VBDOL&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=45B1E8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=45B1E8&count_private=true)](https://github.com/VBDOL/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VBDOL&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/VBDOL/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=VBDOL&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/VBDOL/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBDOL&layout=donut&title_color=FF0000&bg_color=transparent)](https://github.com/VBDOL/github-readme-stats)
 <br>
 <!---
 VBDOL/VBDOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
