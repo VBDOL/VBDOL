@@ -48,6 +48,25 @@ You can click the Preview link to take a look at your changes.
 </picture>
 <br><br>
 
+
+### 🏅 Badges recebidas pelo projeto
+
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="/src/assets/Badge/Badge-Portfolio.png">
+    </td>
+    <td>
+      <img height="150px" src="/src/assets/Badge/Badge-AluraGeek.png">
+    </td>
+  </tr>
+  <tr>
+    <td>Challenge Portfólio</td>
+    <td>Challenge Alura Geek</td>
+  </tr>
+</table>
+
+
 <details align="left">
   <summary></summary> 
  
