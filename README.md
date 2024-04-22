@@ -59,10 +59,22 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img height="150px" src="./Badge-AluraGeek.png">
     </td>
+    <td>
+      <img height="150px" src="./endpoint-security.png">
+    </td>
+    <td>
+      <img height="150px" src="./networking-academy-learn-a-thon-2024.png">
+    </td>
+    <td>
+      <img height="150px" src="./nettworking-basics.png">
+    </td>
   </tr>
   <tr>
     <td>Challenge Portfólio</td>
     <td>Challenge Alura Geek</td>
+    <td>Challenge End Point Security</td>
+    <td>Challenge Networking Academy </td>
+     <td>Challenge Networking Basics</td>
   </tr>
 </table>
 
