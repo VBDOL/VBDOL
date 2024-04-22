@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
       <img height="150px" src="./networking-academy-learn-a-thon-2024.png">
     </td>
     <td>
-      <img height="150px" src="./nettworking-basics.png">
+      <img height="150px" src="./networking-basics.png">
     </td>
   </tr>
   <tr>
