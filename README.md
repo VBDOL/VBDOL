@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 
-### 🏅 Badges recebidas pelo projeto
+### 🏅 Badges recebidas
 
 <table style="text-align: center;">
   <tr>
