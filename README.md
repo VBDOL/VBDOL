@@ -54,10 +54,10 @@ You can click the Preview link to take a look at your changes.
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="/src/assets/Badge/Badge-Portfolio.png">
+      <img height="150px" src="./Badge-Portfólio.png">
     </td>
     <td>
-      <img height="150px" src="/src/assets/Badge/Badge-AluraGeek.png">
+      <img height="150px" src="./Badge-AluraGeek.png">
     </td>
   </tr>
   <tr>
