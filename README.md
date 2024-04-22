@@ -74,10 +74,23 @@ You can click the Preview link to take a look at your changes.
     <td>Challenge Alura Geek</td>
     <td>Challenge End Point Security</td>
     <td>Challenge Networking Academy </td>
-     <td>Challenge Networking Basics</td>
+    <td>Challenge Networking Basics</td>
   </tr>
 </table>
-
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./Nivelamento.png">
+    </td>
+    <td>
+      <img height="150px" src="./Básico.png">
+    </td>
+  </tr>
+    <tr>
+    <td>HDB Nivelamento</td>
+    <td>HDB Básico</td>
+    </tr>
+</table>
 
 <details align="left">
   <summary></summary> 
