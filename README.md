@@ -48,8 +48,11 @@ You can click the Preview link to take a look at your changes.
 </picture>
 <br><br>
 
+<details align="left">
+  <summary>Alura</summary> 
 
-### 🏅 Badges recebidas
+
+### 🏅 Badges & Certificados - Alura
 
 <table style="text-align: center;">
   <tr>
@@ -59,6 +62,21 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img height="150px" src="./Badge-AluraGeek.png">
     </td>
+    </tr>
+    <tr>
+    <td>Challenge Portfólio</td>
+    <td>Challenge Alura Geek</td>
+  </tr>
+</table>
+</details>
+
+<details align="left">
+<summary>Cisco</summary>
+
+### 🏅 Badges & Certificados - Cisco Networking Academy
+
+<table style="text-align: center;">
+  <tr>
     <td>
       <img height="150px" src="./endpoint-security.png">
     </td>
@@ -70,13 +88,17 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td>Challenge Portfólio</td>
-    <td>Challenge Alura Geek</td>
     <td>Challenge End Point Security</td>
     <td>Challenge Networking Academy </td>
     <td>Challenge Networking Basics</td>
   </tr>
 </table>
+</details>
+<details align="left">
+<summary>Hackers do Bem</summary>
+
+### 🏅 Badges & Certificados - Hackers do Bem
+
 <table style="text-align: center;">
   <tr>
     <td>
@@ -91,14 +113,112 @@ You can click the Preview link to take a look at your changes.
     <td>HDB Básico</td>
     </tr>
 </table>
+</details>
 
 <details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a>.
-  - GitHub Stats by <a href="https://github.com/VBDOL/github-readme-stats">VBDOL</a>.
-  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/VBDOL">VBDOL</a>.</div>
+<summary>Microsoft Learn</summary>
+  
+### 🏅 Badges & Certificados - Microsoft Learn
 
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
 </details>
+
+<details align="left">
+<summary>SoloLearningn</summary>
+  
+### 🏅 Badges & Certificados - SoloLearning
+
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
+</details>
+
+<details align="left">
+<summary>Mimo</summary>
+  
+### 🏅 Badges & Certificados - Mimo
+
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
+</details>
+
+<details align="left">
+<summary>GrassHopper</summary>
+  
+### 🏅 Badges & Certificados - GrassHopper
+
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
+</details>
+
+<details align="left">
+<summary>Curso em Video</summary>
+  
+### 🏅 Badges & Certificados - Curso em Video
+
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
+</details>
+  <div align="right">Made with 💜 by <a href="https://github.com/VBDOL">VBDOL.DEV</a>.</div>
+
+
