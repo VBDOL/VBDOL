@@ -13,7 +13,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=45B1E8&color:FFF)](vbdol.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vbdol.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45B1E8&color:FFF)](https://www.linkedin.com/in/victor-b-o-leme-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=45B1E8&color:FFF)](https://www.instagram.com/vbdol.dev/)
 
