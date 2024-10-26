@@ -4,8 +4,8 @@
 
 
 
-<p align="left">Atualmente graduando 2° semestre em Análise e Desenvolvimento de Sistemas pela GRAN FACULDADE (Gran Concursos). Participei e ainda participo de alguns programas que estão contribuindo para meu desenvolvimento proficional, alguns deles são: <br><strong>* ONE ORACLE + Alura - Especialização Front-End
-Formações técnicas e Soft Skills (finalizei)</strong>.<br></strong>* Skill for All by Cisco Networking Academy (parceira da faculdade)</strong>.<br> </strong>* Microsoft Learn. </strong><br> </strong>* Programa HackersDoBem, GOV. BR.</strong> <br>* E também deixo um tempinho para aprender um pouco mais com alguns cursos especificos na Udemy.
+<p align="left">Atualmente graduando 2° semestre em Análise e Desenvolvimento de Sistemas pela GRAN FACULDADE (Gran Concursos). Participei e ainda participo de alguns programas que estão contribuindo para meu desenvolvimento proficional, alguns deles são: <br><strong>* Web DIO </strong>. <br><strong>* ONE ORACLE + Alura - Especialização Front-End
+Formações técnicas e Soft Skills (finalizei)</strong>.<br></strong>* Skill for All by Cisco Networking Academy (parceira da faculdade)</strong>.<br> </strong>* Programa Hackers Do Bem - GOV. BR.</strong> <br>
 
 Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML, CSS e JavaScript (Também estou aprendendo React). 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
