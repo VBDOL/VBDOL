@@ -17,6 +17,9 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=45B1E8)](mailto:vbdol.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45B1E8&color:FFF)](https://www.linkedin.com/in/victor-b-o-leme-dev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=45B1E8&color:FFF)](https://www.instagram.com/vbdol.dev/)
+[![Alura](https://img.shields.io/badge/-Alura-000?style=for-the-badge&logo=alura&logoColor=45B1E8)](https://cursos.alura.com.br/user/vbdol-dev)
+[![DIO](https://img.shields.io/badge/-DIO-000?style=for-the-badge&logo=dio&logoColor=45B1E8)](https://www.dio.me/users/vbdol_dev)
+
 
 <h3 align="left">My Stack</h3>
 
