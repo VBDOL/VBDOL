@@ -5,11 +5,11 @@
 
 
 
-<p align="left">Atualmente graduando 2° semestre em Análise e Desenvolvimento de Sistemas pela GRAN FACULDADE (Gran Concursos). Participei e ainda participo de alguns programas que estão contribuindo para meu desenvolvimento proficional, alguns deles são: <br><strong>* Web DIO </strong>. <br><strong>* ONE ORACLE + Alura - Especialização Front-End
-Formações técnicas e Soft Skills (finalizei)</strong>.<br></strong>* Skill for All by Cisco Networking Academy (parceira da faculdade)</strong>.<br> </strong>* Programa Hackers Do Bem - GOV. BR.</strong> <br>
+<p align="left">Currently a 3rd-semester undergraduate in Systems Analysis and Development at GRAN FACULDADE (Gran Concursos). I have participated and continue to participate in some programs that are contributing to my professional development, some of them are: <br><strong>* Web DIO </strong>. <br><strong>* ONE ORACLE + Alura - Front-End Specialization
+Technical Training and Soft Skills (completed)</strong>.<br></strong>* Skill for All by Cisco Networking Academy (partner of the university)</strong>.<br> </strong>* Hackers Do Bem Program - GOV. BR.</strong> <br>
 
-Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML, CSS e JavaScript (Também estou aprendendo React). 
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+I am interested in both front-end and back-end development, and my main programming languages are HTML, CSS, JavaScript, and MySQL (I am continually improving in React/AI/TypeScript/among other technologies). 
+I constantly study and stay up to date in the field of technology because I love learning and using my knowledge to create innovative solutions!
 
 
 <h3 align="left">Connect with me!</h3>
