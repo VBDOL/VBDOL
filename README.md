@@ -239,6 +239,25 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 </details>
+<details align="left">
+<summary>Web DIO</summary>
+### 🏅 Badges & Certificados - Web DIO
+<table style="text-align: center;">
+  <tr>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+    <td>
+      <img height="150px" src="./.png">
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
+
+</details>
   <div align="right">Made with 💜 by <a href="https://github.com/VBDOL">VBDOL.DEV</a>.</div>
 
 
