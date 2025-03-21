@@ -122,15 +122,23 @@ You can click the Preview link to take a look at your changes.
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="./Nivelamento.png">
+      <img height="150px" src="./img/Nivelamento.png">
     </td>
     <td>
-      <img height="150px" src="./Básico.png">
+      <img height="150px" src="./img/Básico.png">
+    </td>
+        <td>
+      <img height="150px" src="./img/FundamentalHDB.png">
+    </td>
+        <td>
+      <img height="150px" src="./img/Especializado_DEV.png">
     </td>
   </tr>
     <tr>
     <td>HDB Nivelamento</td>
     <td>HDB Básico</td>
+      <td>HDB Fundamental</td>
+      <td>HDB Especializado</td>
     </tr>
 </table>
 </details>
